@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936381968006",
+    "project_id": "putra-go-app",
+    "storage_bucket": "putra-go-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936381968006:android:aa682cf421bbaf442feb07",
+        "android_client_info": {
+          "package_name": "com.example.putra_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5pcdplHmC0utOk4OVZDNQKToTQ0x9QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
